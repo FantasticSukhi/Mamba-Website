@@ -1,0 +1,11 @@
+  =>  Template Name    : Mamba Classes - Mamba Classes HTML Template
+
+  =>  Template Link    : https://github.com/OfficialBlackMamba/Mamba Classes-html-template
+
+  =>  Template License : https://github.com/OfficialBlackMamba/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Black Mamba
+
+  =>  Author Website   : https://github.com/OfficialBlackMamba
+
+  =>  About Black Mamba : Black Mamba is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://github.com/OfficialBlackMamba/about-us )
